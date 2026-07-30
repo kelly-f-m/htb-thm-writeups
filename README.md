@@ -9,11 +9,9 @@
 
 </br>
 
-## Sobre mim
+<h2 align="center"> Conecte-se Comigo </h2>
 
-Breve parágrafo (2-3 linhas): quem você é, sua trajetória (ex: "ex-analista SOC migrando para Red Team"), e o que você busca (ex: certificação eJPT/OSCP, vaga em pentest).
-
-<p align="center"><a href="https://linkedin.com/in/kelly-f-m"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://app.hackthebox.com/public/users/3757032"><img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEAF9" alt="HackTheBox" /></a>&nbsp;<a href="https://tryhackme.com/p/iswia"><img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a></p>
+<p align="center"><a href="https://linkedin.com/in/kelly-f-m"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/kelly-f-m"><img src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="https://app.hackthebox.com/public/users/3757032"><img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEAF9" alt="HackTheBox" /></a>&nbsp;<a href="https://tryhackme.com/p/iswia"><img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a></p>
 
 </br>
 
@@ -37,9 +35,9 @@ Breve parágrafo (2-3 linhas): quem você é, sua trajetória (ex: "ex-analista 
 </br>
 
 ## Progresso e Certificações
-- [ ] Jr Penetration Tester - em andamento
-- [ ] eJPT - planejado
-- [ ] OSCP - planejado
+- [ ] [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) — em andamento
+- [ ] [eJPT](https://ine.com/security/certifications/ejpt-certification) — planejado
+- [ ] [OSCP](https://www.offsec.com/courses/pen-200/) — planejado
 - Plataformas ativas: TryHackMe, HackTheBox, PortSwigger Web Security Academy
 
 </br>
@@ -47,8 +45,8 @@ Breve parágrafo (2-3 linhas): quem você é, sua trajetória (ex: "ex-analista 
 ## Estrutura do Repositório
 
 ```
-.
 ├── README.md
+├── images/
 └── machines/
     └── nome-da-maquina/
         ├── writeup.md
