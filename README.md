@@ -5,7 +5,7 @@
 
 <h1 align="center"> Write-ups HackTheBox & TryHackMe </h1>
 
-> Repositório com write-ups de máquinas resolvidas no Hack The Box e TryHackMe, como parte da minha trilha de estudos em segurança ofensiva.
+> Repositório com write-ups de máquinas resolvidas no HackTheBox e TryHackMe, como parte da minha trilha de estudos em segurança ofensiva.
 
 </br>
 
@@ -53,7 +53,7 @@
         └── images/
 ```
 
-Cada write-up segue uma estrutura padrão: Reconhecimento → Enumeração → Exploração → Escalação de Privilégio → Lições Aprendidas → Mitigação.
+Cada write-up segue uma estrutura padrão: Reconhecimento → Enumeração → Exploração → Escalação de Privilégio → Lições Aprendidas → Mitigação
 
 </br>
 
