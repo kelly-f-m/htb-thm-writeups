@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="https://app.hackthebox.com/public/users/3757032">
     <img src="images/htb-icon.png" height="70" alt="HackTheBox"/>
-  </a>
-  <a href="https://tryhackme.com/p/iswia">
     <img src="images/thm-icon.png" height="70" alt="TryHackMe"/>
-  </a>
 </p>
 
 <h1 align="center"> Write-ups HackTheBox & TryHackMe </h1>
@@ -17,17 +13,7 @@
 
 Breve parágrafo (2-3 linhas): quem você é, sua trajetória (ex: "ex-analista SOC migrando para Red Team"), e o que você busca (ex: certificação eJPT/OSCP, vaga em pentest).
 
-<p align="center">
-  <a href="https://linkedin.com/in/kelly-f-m">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://app.hackthebox.com/public/users/3757032">
-    <img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEAF9" alt="HackTheBox" />
-  </a>
-  <a href="https://tryhackme.com/p/iswia">
-    <img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  </a>
-</p>
+<p align="center"><a href="https://linkedin.com/in/kelly-f-m"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://app.hackthebox.com/public/users/3757032"><img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEAF9" alt="HackTheBox" /></a>&nbsp;<a href="https://tryhackme.com/p/iswia"><img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a></p>
 
 </br>
 
