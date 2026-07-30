@@ -53,7 +53,7 @@
         └── images/
 ```
 
-Cada write-up segue uma estrutura padrão: Reconhecimento → Enumeração → Exploração → Escalação de Privilégio → Lições Aprendidas → Mitigação
+Cada write-up segue uma estrutura padrão: Reconhecimento → Enumeração → Exploração → Escalação de Privilégio → Flags → Lições Aprendidas → Mitigação
 
 </br>
 
