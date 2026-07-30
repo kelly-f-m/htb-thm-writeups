@@ -1,10 +1,6 @@
-<h1 align="center"> [Nome da Máquina/Alvo] — Write-up </h1>
+<h1 align="center"> [Nome do Alvo] — Write-up </h1>
 
-<p align="center">
-    <img src="../../images/htb-icon.png" height="70" alt="HackTheBox"/>
-    <img src="../../images/thm-icon.png" height="70" alt="TryHackMe"/>
-    <img src="https://skillicons.dev/icons?i=linux,windows"/>
-</p>
+<p align="center"><a href="https://app.hackthebox.com/public/users/3757032"><img src="https://custom-icon-badges.demolab.com/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEAF9" alt="HackTheBox" /></a>&nbsp;<a href="https://tryhackme.com/p/iswia"><img src="https://custom-icon-badges.demolab.com/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" /></a></p>
 
 </br>
 
@@ -27,7 +23,7 @@
 
 </br>
 
-## 1. Reconhecimento (Recon)
+## 1. Reconhecimento
 
 ### 1.1 Varredura de portas
 
@@ -74,7 +70,7 @@ Resultado e análise.
 
 </br>
 
-## 3. Exploração (Foothold)
+## 3. Exploração
 
 ### 3.1 Vulnerabilidade identificada
 
@@ -120,7 +116,7 @@ Descreva a falha (ex: RCE em versão desatualizada de X, LFI, credenciais fracas
 
 </br>
 
-## 5. Flags (se aplicável)
+## 5. Flags
 
 > ⚠️ Nunca publique a flag real — use placeholder ou hash parcial.
 
@@ -140,7 +136,7 @@ Descreva a falha (ex: RCE em versão desatualizada de X, LFI, credenciais fracas
 
 </br>
 
-## 7. Mitigação / Recomendações
+## 7. Mitigação
 
 > Seção que simula a entrega real de um relatório de pentest profissional — mostra que você pensa além de "consegui invadir".
 
