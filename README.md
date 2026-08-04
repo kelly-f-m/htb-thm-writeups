@@ -22,8 +22,7 @@
 ### Hack The Box
 | Máquina | Dificuldade | OS | Técnicas | Write-up |
 |---|---|---|---|---|
-| Lame | Fácil | Linux | Samba RCE (CVE-2007-2447) | [Link](machines/lame/writeup.md) |
-| Forest | Médio | Windows | Kerberoasting, AD enum | [Link](machines/forest/writeup.md) |
+| Meow | Fácil | Linux | Root via Telnet (CVE-2026-24061) | [Link](machines/meow/writeup.md) |
 
 </br>
 
