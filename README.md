@@ -19,7 +19,7 @@
 
 </br>
 
-### Hack The Box
+### HackTheBox
 | Máquina | Dificuldade | OS | Técnicas | Write-up |
 |---|---|---|---|---|
 | Meow | Fácil | Linux | Root via Telnet (CVE-2026-24061) | [Link](machines/meow/writeup.md) |
